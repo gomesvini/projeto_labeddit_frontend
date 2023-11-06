@@ -1,6 +1,6 @@
 Labeddit - Plataforma de Compartilhamento de Conteúdo
 
-link do backend [https://github.com/marcos-pontes/backend-Labeddit](https://github.com/gomesvini/projeto_labeddit_backend)
+link do backend (https://github.com/gomesvini/projeto_labeddit_backend)
 ___
 Visão Geral
 O Labeddit é uma aplicação web desenvolvida em React que permite aos usuários compartilhar e interagir com conteúdo de maneira fácil e intuitiva. Com uma série de recursos de alta qualidade e uma arquitetura sólida, o Labeddit é a plataforma ideal para comunidades online.
